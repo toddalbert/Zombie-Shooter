@@ -3275,6 +3275,7 @@ MonoBehaviour:
   _tracer: {fileID: 1106429866}
   _canFire: 1
   _bloodSplat: {fileID: 1872656274248532018, guid: 107c2242f64d248e19491f4b45feef62, type: 3}
+  _damageAmount: 35
 --- !u!1 &653260035
 GameObject:
   m_ObjectHideFlags: 0
